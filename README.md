@@ -1,2 +1,0 @@
-# Lucas-Abrah-o
-FULL STACK, PYTHON, REACT, FLUTTER
